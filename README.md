@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=F9418C&center=true&vCenter=true&random=false&width=1000&lines=Hi+there!+It´s+me+Sumeid;I'm+currently+working+on+Front+end;I'm+currently+learning+web+Development;I've+studied+at+Eduardo+Mondlane+University+Follow+me!)](https://git.io/typing-svg)
 
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeidibr&show_icons=true&theme=radical)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/sumeidibr/sumeidibr/blob/main/computer-illustration.png" width="300" align=right>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeidibr&layout=donut-vertical&theme=radical)](https://github.com/sumeidibr/github-readme-stats)
 
 
