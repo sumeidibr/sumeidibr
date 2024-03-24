@@ -29,5 +29,5 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9418C&height=80&section=footer"/>
 
 
- ![snake gif](https://github.com/sumeidibr/sumeidibr/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/sumeidibr/sumeidibr/blob/output/github-contribution-grid-snake.svg)
 
