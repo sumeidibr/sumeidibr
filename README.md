@@ -4,7 +4,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeidibr&show_icons=true&theme=radical)
-<img src="https://github.com/sumeidibr/sumeidibr/blob/main/computer-illustration.png" width="500" align=right>
+<img src="https://github.com/sumeidibr/sumeidibr/blob/main/computer-illustration.png" width="300" align=right>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeidibr&layout=donut-vertical&theme=radical)](https://github.com/sumeidibr/github-readme-stats)
 
 
